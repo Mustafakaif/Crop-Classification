@@ -56,7 +56,7 @@ from sklearn.metrics import classification_report
 # CHANGE MODEL PATH HERE
 # -----------------------------
 
-MODEL_PATH = r"C:\Job\v1\crop_model_22k.joblib"
+MODEL_PATH = r"crop_model_22k.joblib"
 
 # -----------------------------
 # CLASSES
