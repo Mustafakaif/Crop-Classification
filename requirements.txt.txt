@@ -1,9 +1,0 @@
-streamlit
-torch==2.0.1
-torchvision==0.15.2
-pillow
-matplotlib
-scikit-learn
-joblib
-pandas
-numpy
